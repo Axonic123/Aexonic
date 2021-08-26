@@ -1,0 +1,29 @@
+{
+  "name": "Aexonic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axonic123/Aexonic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Axonic123/Aexonic/issues"
+  },
+  "homepage": "https://github.com/Axonic123/Aexonic#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs-parser": "^20.2.9"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.0",
+    "should": "^13.2.3",
+    "supertest": "^6.1.6"
+  }
+}
